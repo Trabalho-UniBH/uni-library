@@ -391,8 +391,8 @@ diagrams/
 use-case.png
 class-diagram.png
 adr/
-001-arquitetura-hibrida.md
-002-stack-tecnologica.md
+001-modular-monolith-arch.md
+002-stack.md
 .github/
 ISSUE_TEMPLATE/
 bug.md
@@ -400,6 +400,7 @@ feature.md
 refactor.md
 pull_request_template.md
 build.gradle
+CODEOWNERS
 gradlew
 docker-compose.yml
 README.md

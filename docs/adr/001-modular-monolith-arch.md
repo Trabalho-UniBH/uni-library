@@ -1,4 +1,4 @@
-# ADR 001 — Arquitetura Híbrida (Domínio + Camadas Internas)
+# ADR 001 — Arquitetura de Monólito Modular
 
 **Status:** Aceito
 **Data:** 22/04/2026
@@ -11,7 +11,7 @@ Precisávamos de uma arquitetura que equilibrasse organização, facilidade de e
 
 ## Decisão
 
-Adotamos a arquitetura híbrida — organização por domínio com camadas internas em cada domínio.
+Adotamos o **Monólito Modular** — organização por domínio com camadas internas em cada domínio.
 
 Estrutura de pacotes:
 
