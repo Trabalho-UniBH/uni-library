@@ -1,0 +1,12 @@
+services:
+  postgres:
+    container_name: postgres
+    image: postgres:18-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: lib       # Usuário do banco
+      POSTGRES_PASSWORD: 123   # Senha do banco
+      POSTGRES_DB: unilibrary  # Nome do banco
+      TZ: America/Sao_Paulo    # Fuso horário
+    restart: always
