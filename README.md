@@ -3,6 +3,7 @@ REST API para um sistema de gerenciamento de biblioteca desenvolvida em Java com
 Nomes:
 - Tom Alexander
 - Matheus Honorato
+- Vitor Andrade
 
 ---
 
