@@ -4,6 +4,7 @@ Nomes:
 - Tom Alexander
 - Matheus Honorato
 - Vitor Andrade
+- Aleexander Rafael Goudet Costa
 
 ---
 
